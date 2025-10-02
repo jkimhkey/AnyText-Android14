@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AnyText</string>
+    <string name="enter_new_text">Enter new text</string>
+    <string name="apply">Apply</string>
+    <string name="perform_origin_click">Perform original click</string>
+    <string name="text_cannot_be_empty">Text cannot be empty</string>
+    <string name="successfully_modified">Successfully modified</string>
+    <string name="anytext_working_now">AnyText is working now</string>
+    <string name="edit_text_dialog_title">Change any text you want</string>
+    <string name="about">About</string>
+    <string name="about_description">This app provides features to change text of most of the TextView in native Android app. Just click any text in an app and enter new text, then apply, every thing will be done.</string>
+    <string name="requirement_content">System requirements:\n1.Root\n2.Xposed framework installed</string>
+    <string name="github">Github</string>
+    <string name="get_source">Get source code on Github</string>
+    <string name="caution_text">Caution: This software is completely free and open-source, and only for learning usage. Please download this software from my Github page, or compile source code by yourself. Avoid using source-unknown packages.</string>
+    <string name="highlight_text">Highlight text</string>
+    <string name="highlight_text_not_perfect">Text highlighting is not perfect yet, and some text color might not change. Reselect highlight option might help.</string>
+    <string name="about_highlighted_text">You can only change those texts which can be highlighted(Exceptions may be exist).</string>
+    <string name="caution">Caution</string>
+    <string name="app_not_perfect_caution">This App cannot 100% hook text content, And it can only change text content in native Android App(e.g. Flutter/Web page is not supported).</string>
+</resources>

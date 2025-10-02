@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AnyText</string>
+    <string name="enter_new_text">输入新文本</string>
+    <string name="apply">应用</string>
+    <string name="perform_origin_click">触发原点击事件</string>
+    <string name="text_cannot_be_empty">文本不能为空</string>
+    <string name="successfully_modified">成功修改</string>
+    <string name="anytext_working_now">AnyText运行中</string>
+    <string name="edit_text_dialog_title">改变你想改变的任何文本</string>
+    <string name="about">关于</string>
+    <string name="about_description">本应用提供了更改Android原生应用中任何文本控件的功能。只需要点击文本，然后在弹出的窗口中输入新文本，点击应用按钮即可完成修改。</string>
+    <string name="requirement_content">系统要求:\n1.已经Root\n2.安装了Xposed框架</string>
+    <string name="github">Github</string>
+    <string name="get_source">在Github上获取源码</string>
+    <string name="caution_text">注意：本软件完全免费且开源，仅供学习交流使用，请从Github页面上下载本应用，或者自己编译安装包，避免未知来源的安装包。</string>
+    <string name="highlight_text">强调文本颜色</string>
+    <string name="highlight_text_not_perfect">文本强调色仍未完美，有些文本颜色未能修改。你可能需要重新选择复选框来刷新强调色着色文本。</string>
+    <string name="about_highlighted_text">你只能修改那些能够变换强调色的文本内容（可能会有例外）。</string>
+    <string name="caution">注意事项</string>
+    <string name="app_not_perfect_caution">本应用并不能保证能修改百分百的文本内容，而且能修改的内容也仅限于原生的Android应用，像Flutter与Web之类的是不支持的。</string>
+</resources>
